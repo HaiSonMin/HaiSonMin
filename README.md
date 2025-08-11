@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 About Me :<br>🔭 I’m currently working on Backend Development using NestJS, Node.js, and TypeORM.<br><br>🤝 I’m looking to collaborate on backend services, APIs, and microservices projects.<br><br>🆘 I’m looking for help with advanced DevOps practices and system scaling.<br><br>🌱 I’m currently learning DevOps, Kubernetes, and CI/CD pipelines.<br><br>💬 Ask me about NestJS, microservices architecture, or backend performance optimization.<br><br>⚡ Fun fact: I can turn coffee into production-ready APIs faster than you can deploy your code.
+🧑‍💻 About Me :<br>🔭 I’m currently working on Backend Development using NestJS, Node.js, and TypeORM.<br><br>🤝 I’m looking to collaborate on backend services, APIs, and microservices projects.<br><br>🆘 I’m looking for help with advanced DevOps practices and system scaling.<br><br>🌱 I’m currently learning DevOps, Kubernetes, and CI/CD pipelines.<br><br>💬 Ask me about NestJS, microservices architecture, or backend performance optimization.
 
 
 ## 🌐 Socials:
